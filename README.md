@@ -5,7 +5,7 @@ I'm a passionate 16 year old developer, who likes creating, learning and helping
 
 * 🌍  Based in Milan
 * ✉️  You can contact me at [leonard.trapani@gmail.com](mailto:leonard.trapani@gmail.com)
-* 🚀  Currently working on [Opus](http://github.com/leonardotrapani/opus)
+* 🚀  Currently working on [MyDiary](http://github.com/leonardotrapani/MyDiary)
 * 🧠  Learning react native
 * 🤝  Open to collaborating on fun, useful and helpful projects
 * ⚡  Vim passionate
