@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leonardo Trapani</h1>
 <h3 align="center">Full stack / mobile developer</h3>
 
-I'm a passionate 16 year old developer, who likes creating, learning and helping. Its't 16 years too young? No! That's the best thing about programming: code doesn't care about age, race or gender.
-
+I'm a passionate 17 year old developer, who likes improving, creating, learning and helping.
 * 🌍  Based in Milan
 * ✉️  You can contact me at [leonard.trapani@gmail.com](mailto:leonard.trapani@gmail.com)
-* 🚀  Currently working on [MyDiary](http://github.com/leonardotrapani/MyDiary)
-* 🧠  Learning react native
+* 🚀  Currently working on [Tell Me!](http://github.com/leonardotrapani/TellMe)
 * 🤝  Open to collaborating on fun, useful and helpful projects
 * ⚡  Vim passionate
 
