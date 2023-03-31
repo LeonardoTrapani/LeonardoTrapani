@@ -4,7 +4,7 @@
 I'm a passionate 17 year old developer, who likes improving, creating, learning and helping.
 * 🌍  Based in Milan
 * ✉️  You can contact me at [leonard.trapani@gmail.com](mailto:leonard.trapani@gmail.com)
-* 🚀  Currently working on [Tell Me!](http://github.com/leonardotrapani/TellMe)
+* 🚀  Currently working on [Tell Me!](https://github.com/LeonardoTrapani/tell-me)
 * 🤝  Open to collaborating on fun, useful and helpful projects
 * ⚡  Vim passionate
 
