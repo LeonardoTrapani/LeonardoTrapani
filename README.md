@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Trapani</h1>
-<h3 align="center">A obsessive full-stack developer from Italy</h3>
+<h3 align="center">A passionate full-stack developer from Italy</h3>
 
 - 🔭 I’m currently working on [UTellMe](https://github.com/LeonardoTrapani/utellme)
 
