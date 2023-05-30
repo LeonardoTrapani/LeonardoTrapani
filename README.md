@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **leonard.trapani@gmail.com**
 
-- ⚡ Fun fact: **I'm a powerlifter**
+- ⚡ Fun fact: **I'm a vim addict**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
