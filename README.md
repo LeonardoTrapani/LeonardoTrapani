@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/leonardo trapani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo trapani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15141243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15141243" height="30" width="40" /></a>
-<a href="https://medium.com/@leonardo.trapani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@leonardo.trapani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
