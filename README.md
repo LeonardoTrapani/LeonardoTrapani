@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo Trapani</h1>
 <h3 align="center">A passionate full-stack developer from Italy</h3>
 
-- 🔭 I’m currently working on [UTellMe](https://github.com/LeonardoTrapani/utellme)
+- 🔭 I’m currently working with [Datapizza](https://datapizza.tech)
 
 - 🌱 I’m currently learning **Rust**
 
