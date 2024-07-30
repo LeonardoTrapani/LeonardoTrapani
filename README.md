@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leonardo Trapani</h1>
 <h3 align="center">A passionate full-stack developer from Italy</h3>
 
+- 🔗 Check out my [Portfolio](leotrapani.com)
+
 - 🔭 I’m currently working with [Datapizza](https://datapizza.tech)
 
 - 💡 Founder of [The Closer Fit](https://thecloserfit.com) ([Repository](https://github.com/thecloserfit/thecloserfit))
