@@ -12,5 +12,3 @@
 - 📫 How to reach me **leonard.trapani@gmail.com** / [LinkedIn](https://linkedin.com/in/leonardotrapani)
 
 - ⚡ Fun fact **I'm a vim addict**
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardotrapani&show_icons=true&locale=en&layout=compact" alt="leonardotrapani" /></p>
