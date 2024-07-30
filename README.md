@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 📫 How to reach me **leonard.trapani@gmail.com**
+- 📫 How to reach me **leonard.trapani@gmail.com** / ([LinkedIn](https://linkedin.com/in/leonardotrapani))
 
 - ⚡ Fun fact **I'm a vim addict**
 
