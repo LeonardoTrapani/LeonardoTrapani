@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working with [Datapizza](https://datapizza.tech)
 
-- 💡 Founder of [The Closer Fit](https://thecloserfit.com) ([Repository](https://github.com/thecloserfit/thecloserfit))
-
 - 👯 I’m looking to collaborate on **interesting projects**
 
 - 📫 How to reach me **leonard.trapani@gmail.com** / [LinkedIn](https://linkedin.com/in/leonardotrapani)
