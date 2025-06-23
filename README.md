@@ -9,4 +9,4 @@
 
 - 📫 How to reach me **leonard.trapani@gmail.com** / [LinkedIn](https://linkedin.com/in/leonardotrapani)
 
-- ⚡ Fun fact **I'm a vim addict**
+- ⚡ Fun fact **I'm a vim, arch addict**
