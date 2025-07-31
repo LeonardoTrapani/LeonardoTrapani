@@ -9,4 +9,4 @@
 
 - 📫 How to reach me **leo@trapani.sh** / [LinkedIn](https://linkedin.com/in/leonardotrapani)
 
-- ⚡ Fun fact **I'm a vim, arch addict** (dotfiles [here](https://github.com/LeonardoTrapani/os) and [here](https://github.com/LeonardoTrapani/omarchy)
+- ⚡ Fun fact **I'm a vim, arch addict** (dotfiles [here](https://github.com/LeonardoTrapani/os) and [here](https://github.com/LeonardoTrapani/omarchy))
